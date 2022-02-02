@@ -30,10 +30,10 @@ This table is regarding the sports/activities and the location where one can par
 
 | **Sports Name**| **location**| **cost**|
 | --- | --- | --- |
-| Cricket | India | 10-15 |
-| Basket Ball | United States | 33-38|
-| Hockey | Australia | 6- 13|
-| FootBall | Newzealand | 5-10|
+| Cricket | Stadium | 10-15 |
+| Basket Ball | court | 33-38|
+| Hockey | stadium | 6- 13|
+| FootBall | court | 5-10|
 
 ***
 ### Favourite Quotes ###
