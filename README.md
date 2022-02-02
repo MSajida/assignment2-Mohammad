@@ -34,3 +34,10 @@ This table is regarding the sports/activities and the location where one can par
 | Basket Ball | United States | 33-38|
 | Hockey | Australia | 6- 13|
 | FootBall | Newzealand | 5-10|
+
+***
+### Favourite Quotes ###
+
+> "The greatest glory in living lies not in never falling, but in rising every time we fall." Author: *Nelson Mandela*
+
+> "Keep your face always toward the sunshine, and shadows will fall behind you." Author: *Walt Whitman*
