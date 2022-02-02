@@ -41,3 +41,35 @@ This table is regarding the sports/activities and the location where one can par
 > "The greatest glory in living lies not in never falling, but in rising every time we fall." Author: *Nelson Mandela*
 
 > "Keep your face always toward the sunshine, and shadows will fall behind you." Author: *Walt Whitman*
+
+***
+### Section for code fencing 
+
+> Fast String Hashing Algorithm with low collision rates with 32 bit integer
+Quick link to the source
+
+ [source code](https://stackoverflow.com/questions/114085/fast-string-hashing-algorithm-with-low-collision-rates-with-3er2-bit-integer)
+
+```
+#include <stdint.h>
+
+uint32_t hash_string(const char * s)
+{
+    uint32_t hash = 0;
+
+    for(; *s; ++s)
+    {
+        hash += *s;
+        hash += (hash << 10);
+        hash ^= (hash >> 6);
+    }
+
+    hash += (hash << 3);
+    hash ^= (hash >> 11);
+    hash += (hash << 15);
+
+    return hash;
+}
+```
+
+ [source code](https://stackoverflow.com/questions/114085/fast-string-hashing-algorithm-with-low-collision-rates-with-3er2-bit-integer)
